@@ -6,6 +6,10 @@ function say() {
     return "hello Arhana"
 }
 
+function helloWorld() {
+    return "hello world"
+}
+
 function add(num1, num2) {
     return num1 + num2
 }
