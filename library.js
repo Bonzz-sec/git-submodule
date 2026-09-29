@@ -6,8 +6,12 @@ function say() {
     return "hello Arhana"
 }
 
-function sayFullname(firstName, middlename, lastName) {
+function sayFullname(firstName, middleName, lastName) {
     return firstName + middleName + lastName
+}  
+
+function helloWorld() {
+    return "hello world"
 }
 
 function add(num1, num2) {
