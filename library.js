@@ -10,6 +10,10 @@ function sayFullname(firstName, middleName, lastName) {
     return firstName + middleName + lastName
 }  
 
+function sayLastName(name) {
+    return name
+}
+
 function helloWorld() {
     return "hello world"
 }
