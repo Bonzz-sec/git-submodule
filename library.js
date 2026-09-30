@@ -8,7 +8,11 @@ function say() {
 
 function sayFullname(firstName, middleName, lastName) {
     return firstName + middleName + lastName
-}  
+}
+
+function sayFirstName(name) {
+    return name
+}
 
 function sayLastName(name) {
     return name
