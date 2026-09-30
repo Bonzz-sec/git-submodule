@@ -14,6 +14,10 @@ function sayFirstName(name) {
     return name
 }
 
+function sayLastName(name) {
+    return name
+}
+
 function helloWorld() {
     return "hello world"
 }
